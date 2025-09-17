@@ -1,0 +1,8 @@
+_site/
+node_modules/
+
+# Mac-specific 
+.DS_Store
+
+# VScode
+.vscode
