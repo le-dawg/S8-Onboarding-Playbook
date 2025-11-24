@@ -15,9 +15,9 @@ This is the **Truss Research and Design Playbook** - a Jekyll-based static docum
 
 **Root Configuration Files:**
 - `_config.yml` - Main Jekyll configuration (theme, navigation, excludes)
-- `Gemfile` - Ruby dependencies (github-pages ~231, just-the-docs ~0.5.0, webrick ~1.8)
+- `Gemfile` - Ruby dependencies (github-pages ~231, just-the-docs ~0.5.0, webrick ~1.8) - Specifies Ruby ~3.2.0
 - `package.json` - Node.js dev dependencies (stylelint, prettier)
-- `.ruby-version` - Specifies Ruby 2.7.7 (note: Ruby 3.2.x also works)
+- `.ruby-version` - Specifies Ruby 2.7.7 (legacy reference; Ruby 3.2.x is recommended and works correctly)
 - `.tool-versions` - Specifies Node.js 18.16.0
 
 **Content Directories:**
@@ -55,9 +55,9 @@ You MUST have the following installed:
 **Step 1: Install Bundler (if not already installed)**
 ```bash
 gem install bundler --user-install
-export PATH="$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH"
+export PATH="$HOME/.local/share/gem/ruby/$(ruby -e 'puts RbConfig::CONFIG["ruby_version"]')/bin:$PATH"
 ```
-Note: The `--user-install` flag is required if you don't have system-wide gem permissions. Add the PATH export to your shell profile for persistence.
+Note: The `--user-install` flag is required if you don't have system-wide gem permissions. The PATH uses your Ruby version dynamically. For Ruby 3.2.x, this typically resolves to `$HOME/.local/share/gem/ruby/3.2.0/bin`. Add the PATH export to your shell profile for persistence.
 
 **Step 2: Configure Bundle for Local Installation**
 ```bash
@@ -100,7 +100,8 @@ npm install --legacy-peer-deps
 
 **Standard Build:**
 ```bash
-export PATH="$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH"  # If bundler is user-installed
+# Ensure bundler is in PATH if installed with --user-install
+export PATH="$HOME/.local/share/gem/ruby/$(ruby -e 'puts RbConfig::CONFIG["ruby_version"]')/bin:$PATH"
 bundle exec jekyll build
 ```
 Build time: ~3-4 seconds. Output goes to `_site/` directory.
@@ -124,16 +125,23 @@ bundle exec jekyll serve --host 0.0.0.0
 
 ### Docker Alternative (No Local Ruby Setup Required)
 
-If you don't want to manage Ruby locally, you can use Docker:
+If you don't want to manage Ruby locally, you can use Docker. Note: The Docker example below uses Ruby 2.7.2 as documented in the original README, but Ruby 3.2.x is recommended for consistency with the Gemfile:
+
+**Option 1: Ruby 2.7.2 (from original README):**
 ```bash
 docker run -it --rm=true -v $PWD:$PWD -w $PWD -p 4000:4000 ruby:2.7.2 /bin/bash -c "gem install bundler:2.2.16 && bundle install && bundle exec jekyll serve --host 0.0.0.0"
 ```
-This command:
-1. Runs a Ruby 2.7.2 container
-2. Mounts the current directory
-3. Installs bundler 2.2.16
-4. Runs bundle install
-5. Starts Jekyll server accessible at localhost:4000
+
+**Option 2: Ruby 3.2 (recommended for consistency):**
+```bash
+docker run -it --rm=true -v $PWD:$PWD -w $PWD -p 4000:4000 ruby:3.2 /bin/bash -c "gem install bundler && bundle install && bundle exec jekyll serve --host 0.0.0.0"
+```
+
+Both commands:
+1. Run a Ruby container (2.7.2 or 3.2)
+2. Mount the current directory
+3. Install bundler and dependencies
+4. Start Jekyll server accessible at localhost:4000
 
 Note: First run takes longer (~2-3 minutes) due to gem installation.
 
@@ -185,7 +193,8 @@ When editing markdown files in `docs/`:
 **Solution**: 
 ```bash
 gem install bundler --user-install
-export PATH="$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH"
+# Add bundler to PATH (adjusts automatically to your Ruby version)
+export PATH="$HOME/.local/share/gem/ruby/$(ruby -e 'puts RbConfig::CONFIG["ruby_version"]')/bin:$PATH"
 ```
 
 ### Issue 2: Jekyll Build Fails with Invalid Date Error
