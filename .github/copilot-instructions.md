@@ -55,9 +55,12 @@ You MUST have the following installed:
 **Step 1: Install Bundler (if not already installed)**
 ```bash
 gem install bundler --user-install
+# Option 1: Dynamic PATH (automatically detects your Ruby version)
 export PATH="$HOME/.local/share/gem/ruby/$(ruby -e 'puts RbConfig::CONFIG["ruby_version"]')/bin:$PATH"
+# Option 2: Manual PATH for Ruby 3.2.x (use if dynamic detection fails)
+# export PATH="$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH"
 ```
-Note: The `--user-install` flag is required if you don't have system-wide gem permissions. The PATH uses your Ruby version dynamically. For Ruby 3.2.x, this typically resolves to `$HOME/.local/share/gem/ruby/3.2.0/bin`. Add the PATH export to your shell profile for persistence.
+Note: The `--user-install` flag is required if you don't have system-wide gem permissions. The dynamic PATH uses your Ruby version automatically. For Ruby 3.2.x, this typically resolves to `$HOME/.local/share/gem/ruby/3.2.0/bin`. If the dynamic version fails, use the manual option. Add the PATH export to your shell profile for persistence.
 
 **Step 2: Configure Bundle for Local Installation**
 ```bash
@@ -101,7 +104,11 @@ npm install --legacy-peer-deps
 **Standard Build:**
 ```bash
 # Ensure bundler is in PATH if installed with --user-install
+# Option 1: Dynamic (recommended)
 export PATH="$HOME/.local/share/gem/ruby/$(ruby -e 'puts RbConfig::CONFIG["ruby_version"]')/bin:$PATH"
+# Option 2: Manual for Ruby 3.2.x (fallback if dynamic fails)
+# export PATH="$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH"
+
 bundle exec jekyll build
 ```
 Build time: ~3-4 seconds. Output goes to `_site/` directory.
@@ -193,8 +200,10 @@ When editing markdown files in `docs/`:
 **Solution**: 
 ```bash
 gem install bundler --user-install
-# Add bundler to PATH (adjusts automatically to your Ruby version)
+# Option 1: Dynamic PATH (recommended)
 export PATH="$HOME/.local/share/gem/ruby/$(ruby -e 'puts RbConfig::CONFIG["ruby_version"]')/bin:$PATH"
+# Option 2: Manual PATH for Ruby 3.2.x (use if dynamic fails)
+# export PATH="$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH"
 ```
 
 ### Issue 2: Jekyll Build Fails with Invalid Date Error
