@@ -25,7 +25,7 @@ exclude:
   ]
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/truss-icon.svg"
+logo: "/assets/images/S8-icon.svg"
 
 # Enable or disable the site search
 search_enabled: true
