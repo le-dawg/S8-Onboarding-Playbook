@@ -39,10 +39,10 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Solution8 Solutioneer Handbook on GitHub":
-    - "//github.com/le-dawg/S8-Onboarding-Playbook"
+    - "//github.com/solution8-com/S8-Onboarding-Playbook"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2025 Solution8"
+footer_content: "Copyright &copy; 2025 Solution8 sp. z o.o."
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
