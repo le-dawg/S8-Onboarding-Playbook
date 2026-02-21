@@ -2,24 +2,24 @@
 layout: default
 title: Intro
 nav_order: 1
-description: "This playbook is a guide to who we are, what we believe, and how we work. It is a critical piece of onboarding for new designers at Truss, and a resource for the entire team to document best practices as we continue to grow."
+description: "This handbook is a guide to who we are, what we believe, and how we work. It is a critical piece of onboarding for new solutioneers at Solution8, and a resource for the entire team to document best practices as we continue to grow."
 permalink: /
 ---
 
-# Truss Research and Design Playbook
+# Solution8 Solutioneer Handbook
 {: .fs-9 .fw-700 }
 
 ---
 
-This playbook is a guide to who we are, what we believe, and how we work. It is a central piece of onboarding for new designers at Truss, and a resource for the entire team to document best practices as we continue to grow. Eventually, this playbook will be a robust library of tools, processes, and approaches to design and research work that anyone at Truss (and eventually, even friends outside Truss) can pull from to address the problems we most commonly face.
+This handbook is a guide to who we are, what we believe, and how we work. It is a central piece of onboarding for new solutioneers at Solution8, and a resource for the entire team to document best practices as we continue to grow. Eventually, this handbook will be a robust library of tools, processes, and approaches to solutioneering work that anyone at Solution8 (and eventually, even friends outside Solution8) can pull from to address the problems we most commonly face.
 
-While any Trussel is free to edit these documents, there is some expectation that these are to be ultimately owned and curated by the members of the design practice. To that end, proposed changes should be submitted via a pull request and leads will be identified to act as curators for particular knowledge areas.
+While any Solution8 team member is free to edit these documents, there is some expectation that these are to be ultimately owned and curated by the members of the solutioneering practice. To that end, proposed changes should be submitted via a pull request and leads will be identified to act as curators for particular knowledge areas.
 
 
 ## Table of contents
 **[Team charter](docs/team-charter)** - Our purpose, principles, and team superpowers
 
-**Code of conduct** - Coming soon — a code of conduct for Truss designers
+**Code of conduct** - Coming soon — a code of conduct for Solution8 solutioneers
 
 **[How we work](docs/how-we-work)** - How we work together as a design team, as well as collaboratively on internal and external projects
 
