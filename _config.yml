@@ -1,7 +1,6 @@
 title: Solution8 Solutioneer Handbook
 description: Applying the things we collectively know to the problems we face.
 baseurl: "/" # the subpath of your site, e.g. /blog
-#url: "https://research-design-playbook.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude:
