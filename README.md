@@ -1,20 +1,20 @@
-# Welcome to the Solution8 Research and Design Playbook
+# Welcome to the Solution8 Solutioneer Handbook
 
-## Purpose of this Playbook:
+## Purpose of this Handbook:
 
 Within Solution8 we have a wealth of opinions and experiences regarding design, research, and content strategy best practices, tools, approaches, and practices. The problems and choices that we encounter in our day-to-day practice are rarely new. Having a straightforward way of applying the things we collectively know to the problems we face would be a source of great efficiency for us and also a boon to the design and research communities.
 
 This collection of resources is intended to be simple and searchable, each one containing the essence of Solution8 opinions. Whilst any Solution8 team member is free to edit these documents, there is some expectation that these are to be ultimately owned and curated by the members of the design practice at Solution8. To that end, proposed changes should be submitted via a pull request and leads will be identified to act as curators for particular knowledge areas.
 
-## Playbook How-To:
+## Handbook How-To:
 
-This playbook uses a static site generator called [Jekyll](https://jekyllrb.com/). Jekyll allows easy editing of content files using markdown. If you're not familiar with markdown syntax, check out the handy dandy guide labeled `markdowncheatsheet.md` in the main directory folder.
+This handbook uses a static site generator called [Jekyll](https://jekyllrb.com/). Jekyll allows easy editing of content files using markdown. If you're not familiar with markdown syntax, check out the handy dandy guide labeled `markdowncheatsheet.md` in the main directory folder.
 
-We are also using a Jekyll template/theme called [Just the docs](https://pmarsceill.github.io/just-the-docs/). You shouldn't need to make any edits to the template/theme when contributing content to the playbook, however if you need to or are interested please review the theme [documentation](https://just-the-docs.github.io/just-the-docs/).
+We are also using a Jekyll template/theme called [Just the docs](https://pmarsceill.github.io/just-the-docs/). You shouldn't need to make any edits to the template/theme when contributing content to the handbook, however if you need to or are interested please review the theme [documentation](https://just-the-docs.github.io/just-the-docs/).
 
-### Ways to contribute to the playbook
+### Ways to contribute to the handbook
 
-There are a couple of ways you can contribute to the playbook:
+There are a couple of ways you can contribute to the handbook:
 1. **For those who would like to use Github to edit content:** Login and use the GitHub interface to make edits and pull requests
 2. **For those familiar with editing a repository locally:** Clone the repository to your computer and work locally using a text editor to make the edits you desire and terminal or github desktop to pull and then push any new changes
 
@@ -22,7 +22,7 @@ There are a couple of ways you can contribute to the playbook:
 
 - A majority of the content files are located in the `docs` directory
 - Inside the `docs` directory you will find each page as separate markdown file
-- Editing/removing/adding markdown files to this directory will update the content in the playbook
+- Editing/removing/adding markdown files to this directory will update the content in the handbook
 
 **What is this section at the top of each markdown file?**
 
@@ -36,7 +36,7 @@ nav_order: 5
 
 This block is called **front matter** it tells the site what page layout to use, what the title of the page shoud be, and where to include the page in the navigation.
 
-- **layout:** you shouldn't need to change this property, we will use the `default` layout for all playbook pages for now
+- **layout:** you shouldn't need to change this property, we will use the `default` layout for all handbook pages for now
 - **title:** this is the title of the page that will show in the browser's title bar or page's tab
 - **nav_order:** this is the placement of the page in the side bar navigation
 

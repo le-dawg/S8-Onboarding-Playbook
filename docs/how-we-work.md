@@ -77,7 +77,7 @@ We’ve also developed a [🔒 design-specific scoping guide](https://docs.googl
 
 ## Designing with teammates and clients on projects
 
-There is no “typical” project here at Solution8, so there is no “typical” design playbook to run one, but there are some practices we hold near and dear, which we’ve started to formalize below:
+There is no “typical” project here at Solution8, so there is no “typical” solutioneer handbook to run one, but there are some practices we hold near and dear, which we’ve started to formalize below:
 
 **Team norming**  
 Every new project is a new problem to solve and potentially a brand new mix of people to solve it with — which is why we care so deeply about team norming and building a foundation of trust. [🔒 Here are some of our favorite activities](https://miro.com/app/board/o9J_kt0cswE=/?moveToWidget=3074457347688302246&cot=13) to get to know each other, understand working styles, and norm on how we’ll work together.
@@ -119,12 +119,12 @@ We think of D&F as a three-phased approach:
     - Synthesize findings and share recommendations
     - Create an outcome-based roadmap and project plan to move forward
 
-While every project approaches this work a little bit differently, there’s value in having a shared library of resources to pull from. While it’s still in progress, we have the beginnings of a [🔒 Project Kickoff Miro board](https://miro.com/app/board/o9J_kt0cswE=/?moveToWidget=3074457347687556824&cot=13) with easy-to-copy templates for many of the activities listed above. Additional [resources](../resources/resources) can be found in the Resources section of this playbook.
+While every project approaches this work a little bit differently, there’s value in having a shared library of resources to pull from. While it’s still in progress, we have the beginnings of a [🔒 Project Kickoff Miro board](https://miro.com/app/board/o9J_kt0cswE=/?moveToWidget=3074457347687556824&cot=13) with easy-to-copy templates for many of the activities listed above. Additional [resources](../resources/resources) can be found in the Resources section of this handbook.
 {: .mb-7}
 
 ## Sharing good design practices company-wide
 
-In the life cycle of Solution8, research and design is a relatively new practice, so when an opportunity presents itself to share design practices and work with the entire company, we take it. 
+In the life cycle of Solution8, solutioneering is a relatively new practice, so when an opportunity presents itself to share solutioneering practices and work with the entire company, we take it. 
 
 Every Friday after our practitioner (full company) meeting, there is a 25 minute slot open for any Solution8 team member to present on a topic to the rest of the Solution8 team. Below is a list of recordings of past One Topic Talks done by members of the design team:
 
