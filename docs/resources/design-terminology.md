@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Design terminology
+title: Solution8 terminology
 parent: Resources
 nav_order: 4
 ---
@@ -8,7 +8,7 @@ nav_order: 4
 # Design terminology
 {: .no_toc .fw-700 }
 
-To set a foundation for our discussions with each other, our Truss teammates, and our clients, Derrick and Monica started a list of Truss design terminology. This is not exhaustive, and we should continue to add to it.
+To set a foundation for our discussions with each other and our clients, here is a list of terminology. This is not exhaustive at all, and we should consider having an agent listen in to how we speak to keep addingh to it.
 
 | Term        | Definition         |
 |:------------|:-------------------|
