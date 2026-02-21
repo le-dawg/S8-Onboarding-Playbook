@@ -6,7 +6,7 @@ nav_order: 6
 ---
 
 # Library
-Books, articles, and other educational resources recommended by Truss designers
+Books, articles, and other educational resources I've read, not sorted by role or anything. Assume everything is product and design-thinking related.
 
 ## Articles/collections
 * [Show Your Work: How to Justify Your Decisions & Get Stakeholder Buy-In](https://www.producttalk.org/2019/08/show-your-work/)
@@ -83,7 +83,7 @@ Books, articles, and other educational resources recommended by Truss designers
   * Topic: Design and research
 
 ### Digital copies of books
-The following titles are accessible through [🔒Truss's internal library](https://drive.google.com/drive/folders/1zNbuzsRWPntve7Fe_Pe6QqUy2yHNMjhF)
+dawg can teach how to safely access all of these titles without spending a fortune.
 
 * Build Better Products by Laura Klein
   * Topic: Design and research
@@ -109,8 +109,6 @@ The following titles are accessible through [🔒Truss's internal library](https
   * Topic: Research
 * Lead with Content by Padma Gillen
   * Topic: Content design 
-* Life and Death Design by Katie Swindler
-  * Topic: Design and research
 * Liftoff! Practical Design Leadership to Elevate your Team, you Organization, and You by Chris Avore and Russ Unger
   * Topic: Leadership
 * Surveys that Work by Caroline Jarrett
