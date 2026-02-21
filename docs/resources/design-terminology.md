@@ -5,7 +5,7 @@ parent: Resources
 nav_order: 4
 ---
 
-# Design terminology
+# Solution8 terminology
 {: .no_toc .fw-700 }
 
 To set a foundation for our discussions with each other and our clients, here is a list of terminology. This is not exhaustive at all, and we should consider having an agent listen in to how we speak to keep addingh to it.
