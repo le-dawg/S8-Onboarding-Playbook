@@ -2,7 +2,7 @@
 
 ## Repository Overview
 
-This is the **Truss Research and Design Playbook** - a Jekyll-based static documentation site that serves as an internal knowledge base and onboarding resource for Truss's design and research practice. The playbook contains guides, resources, templates, and best practices for design work at Truss.
+This is the **Solution8 Handbook** - a Jekyll-based static documentation site that serves as an internal knowledge base and onboarding resource for Solution8's practice. The handbook contains guides, resources, templates, and best practices based on my previous learnings and experiences. 
 
 **Repository Type**: Documentation site / Static site generator (Jekyll)  
 **Primary Language**: Markdown, with Ruby (Jekyll), JavaScript (Node.js for linting)  
