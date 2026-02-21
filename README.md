@@ -1,10 +1,10 @@
-# Welcome to the Truss Research and Design Playbook
+# Welcome to the Solution8 Research and Design Playbook
 
 ## Purpose of this Playbook:
 
-Within Truss we have a wealth of opinions and experiences regarding design, research, and content strategy best practices, tools, approaches, and practices. The problems and choices that we encounter in our day-to-day practice are rarely new. Having a straightforward way of applying the things we collectively know to the problems we face would be a source of great efficiency for us and also a boon to the design and research communities.
+Within Solution8 we have a wealth of opinions and experiences regarding design, research, and content strategy best practices, tools, approaches, and practices. The problems and choices that we encounter in our day-to-day practice are rarely new. Having a straightforward way of applying the things we collectively know to the problems we face would be a source of great efficiency for us and also a boon to the design and research communities.
 
-This collection of resources is intended to be simple and searchable, each one containing the essence of Truss opinions. Whilst any Trussel is free to edit these documents, there is some expectation that these are to be ultimately owned and curated by the members of the design practice at Truss. To that end, proposed changes should be submitted via a pull request and leads will be identified to act as curators for particular knowledge areas.
+This collection of resources is intended to be simple and searchable, each one containing the essence of Solution8 opinions. Whilst any Solution8 team member is free to edit these documents, there is some expectation that these are to be ultimately owned and curated by the members of the design practice at Solution8. To that end, proposed changes should be submitted via a pull request and leads will be identified to act as curators for particular knowledge areas.
 
 ## Playbook How-To:
 
@@ -51,7 +51,7 @@ After you have made edits please open up a new pull request for someone else to 
 - Add a title to your commit with a brief description of the change that you made
 - Select the option "Create new branch for this commit and start a pull request"
 - Title your new branch with with the following format: `[your initials] - [brief description of the change]` (e.g. jf-navigation-update)
-![](https://github.com/trussworks/research-design-playbook/blob/master/contribution-guidelines/github-commit-with-details.png)
+![](https://github.com/le-dawg/S8-Onboarding-Playbook/blob/master/contribution-guidelines/github-commit-with-details.png)
 - After you **propose file change** you will be taken to a page to start a new pull request
 
 ### Writing your pull requests
@@ -74,12 +74,12 @@ After you have created your pull request please add **reviewers** to the PR (PR 
 
 - Clone the repo onto your machine:
 ```
-git clone git@github.com:trussworks/research-design-playbook.git
+git clone git@github.com:le-dawg/S8-Onboarding-Playbook.git
 ```
 
 - Navigate into the project:
  ```
- cd research-design-playbook
+ cd S8-Onboarding-Playbook
  ```
 
 Then choose one of the two methods below to run the site, which will be available

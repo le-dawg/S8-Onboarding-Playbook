@@ -4,11 +4,11 @@ title: Team charter
 nav_order: 2
 ---
 
-# Design-Research practice charter
+# Solutioneering practice charter
 {: .fw-700 }
 {: .no_toc .text-alpha }
 
-#### Truss's purpose
+#### Solution8's purpose
 {: .no_toc .text-epsilon }
 _Move to the edge and declare it center._
 
@@ -23,11 +23,11 @@ We enable teams to make decisions based on awareness and learning. This means we
 
 In our practice, we believe that:
 
-- Transparency is the default, in how we work and the work itself
+- Transparency is the default, in how we work and the work itself — we build in public because building in public works best
 
 - Deliverables are not all of the work. Working shoulder-to-shoulder is the work
 
-- Designing for all people and abilities is a priority
+- Designing for effortless use is our priority
 
 - Collaborative incremental progress is better than perfection
 
@@ -36,8 +36,8 @@ In our practice, we believe that:
 
 * * *
 
-### **Transparency is the default, in how we work and the work itself**
-##### Truss value: BUILD ALLIANCES, SHOW UP STEP UP
+### **Transparency is the default, in how we work and the work itself — we build in public because building in public works best**
+##### Solution8 value: BUILD ALLIANCES, SHOW UP STEP UP
 {: .no_toc .text-epsilon }
 - We value solo work time balanced with regular collaboration, working in the open, and asking for early feedback to build trust and bring people along.
 
@@ -47,7 +47,7 @@ In our practice, we believe that:
 
 
 ### **Deliverables are not all of the work. Working shoulder-to-shoulder is the work**
-##### Truss value: PAY ATTENTION, BUILD ALLIANCES
+##### Solution8 value: PAY ATTENTION, BUILD ALLIANCES
 {: .no_toc .text-epsilon }
 - Our work doesn’t start and end with a UI; it’s relationships, adoption, and listening to the people involved with and impacted by a product or service. 
 
@@ -57,8 +57,8 @@ In our practice, we believe that:
 
 - We are clear about constraints we’re encountering, our own needs, we ask for help when we need it, and offer help when we see someone struggling.
 
-### **Designing for all people and abilities is a priority**
-##### Truss value: SHOW UP, STEP UP, BUILD ALLIANCES
+### **Designing for effortless use is our priority**
+##### Solution8 value: SHOW UP, STEP UP, BUILD ALLIANCES
 {: .no_toc .text-epsilon }
 
 - We invest in our own learning and ensure that everyone knows the basics of how to design accessibly.
@@ -70,7 +70,7 @@ In our practice, we believe that:
 - We empower and trust others to use the tools of research and design to center users needs and problems before building solutions. We meet people where they are.
 
 ### **Collaborative incremental progress is better than perfection**
-##### Truss value: PURSUE MASTERY, BE ADAPTABLE
+##### Solution8 value: PURSUE MASTERY, BE ADAPTABLE
 {: .no_toc .text-epsilon }
 
 - We hold our preferred or ideal process lightly, prioritizing incremental progress and bringing people along over getting it perfect.
@@ -82,7 +82,7 @@ In our practice, we believe that:
 - We ask questions, make decisions based on evidence, and help our internal and client partners practice this too.
 
 ### **Treating ourselves and each other with care produces better work**
-##### Truss value: ACT WITHOUT FEAR
+##### Solution8 value: ACT WITHOUT FEAR
 {: .no_toc .text-epsilon }
 
 - We extend trust in order to build trust. We believe if teams support each other's needs, we will produce great work together.

@@ -8,11 +8,11 @@ nav_order: 1
 # Design tools
 {: .no_toc .fw-700 }
 
-We have experience using a variety of tools across different projects with both clients and internally at Truss. Our toolset is not set in stone but rather a collection of tools at our disposal to use as a project requires it.
+We have experience using a variety of tools across different projects with both clients and internally at Solution8. Our toolset is not set in stone but rather a collection of tools at our disposal to use as a project requires it.
 
 ## Brainstorming and workshopping
 
-**[Miro](https://miro.com/)** - Miro is used widely across Truss as a digital whiteboard and sandbox for all sorts of different activities. We use it for our interview process, workshops, brainstorming, research synthesis, diagramming, retros, and a lot more. Truss has a team account which everyone is welcome and encouraged to use. A few projects have their own Miro spaces separate from Truss’s account. You’ll receive invites to those accounts separately if your project requires them.
+**[Miro](https://miro.com/)** - Miro is used widely across Solution8 as a digital whiteboard and sandbox for all sorts of different activities. We use it for our interview process, workshops, brainstorming, research synthesis, diagramming, retros, and a lot more. Solution8 has a team account which everyone is welcome and encouraged to use. A few projects have their own Miro spaces separate from Solution8’s account. You’ll receive invites to those accounts separately if your project requires them.
 
 **[Optimal workshop](https://www.optimalworkshop.com/)** - the design team has an account for Optimal Workshop that we use for activities like card sorting, surveys, and IA testing.
 {: .mb-7}

@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "research-design-playbook"
   spec.version       = "0.1"
-  spec.authors       = ["Truss Design Team"]
-  spec.email         = ["design@truss.works"]
+  spec.authors       = ["Solution8 Design Team"]
+  spec.email         = ["design@solution8.com"]
 
   spec.summary       = %q{A record of how we work together and the resources we use.}
-  spec.homepage      = "https://github.com/trussworks/research-design-playbook"
+  spec.homepage      = "https://github.com/le-dawg/S8-Onboarding-Playbook"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|bin|_layouts|_includes|lib|Rakefile|_sass|LICENSE|README)}i) }
