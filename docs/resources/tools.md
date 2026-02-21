@@ -10,11 +10,6 @@ nav_order: 1
 
 We have experience using a variety of tools across different projects with both clients and internally at Truss. Our toolset is not set in stone but rather a collection of tools at our disposal to use as a project requires it.
 
-## Communication tools  
-
-**[Slack](https://slack.com/)** - We use slack for 99% of our communication across Truss. Our team home is the [#design-research](https://slack.com/app_redirect?channel=design-research) channel. Each of our projects usually has one or more channels as their home base as well.
-{: .mb-7}
-
 ## Brainstorming and workshopping
 
 **[Miro](https://miro.com/)** - Miro is used widely across Truss as a digital whiteboard and sandbox for all sorts of different activities. We use it for our interview process, workshops, brainstorming, research synthesis, diagramming, retros, and a lot more. Truss has a team account which everyone is welcome and encouraged to use. A few projects have their own Miro spaces separate from Truss’s account. You’ll receive invites to those accounts separately if your project requires them.
@@ -28,10 +23,6 @@ We have experience using a variety of tools across different projects with both 
 
 **[Sketch](https://www.sketch.com/)** - We also use Sketch across multiple projects. Its deep catalog of plugins and extensions make it a very customizable design tool.
 
-**[InVision](https://www.invisionapp.com/)** - InVision is a powerful tool for sharing low to high fidelity prototypes with users, stakeholders, engineers, and other team members. We currently have an Enterprise account which is approved for use on government contracts.
-
 ## Documentation and version control
-
-**[GSuite](https://gsuite.google.com/)** - Google products are a lot at Truss. On the design team we use google docs, slides, and sheets quite a bit for research documentation, presentations, and organization. We have found that a lot of our clients also use google products which make collaboration easier.
 
 **[Github](https://github.com/)** - We are using Github more and more for documentation organization and project planning. We have been experimenting with using Github wikis to document our research and design work, and using Github projects to organize simple KanBan boards to plan and prioritize our work.
