@@ -1,8 +1,8 @@
 title: Solution8 Solutioneer Handbook
 description: Applying the things we collectively know to the problems we face.
-url: "https://solution8-com.github.io"
+url: "https://le-dawg.github.io"
 baseurl: "/S8-Onboarding-Playbook" # the subpath for project pages
-repository: solution8-com/S8-Onboarding-Playbook
+repository: le-dawg/S8-Onboarding-Playbook
 
 permalink: pretty
 exclude:
@@ -40,7 +40,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Solution8 Solutioneer Handbook on GitHub":
-    - "//github.com/solution8-com/S8-Onboarding-Playbook"
+    - "//github.com/le-dawg/S8-Onboarding-Playbook"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2025 Solution8 sp. z o.o."

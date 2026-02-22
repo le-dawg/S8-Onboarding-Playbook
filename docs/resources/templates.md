@@ -14,7 +14,7 @@ We have a growing collection of templates at our disposal for use across differe
 
 **[Project Toolkit: Exercises and Methods for Working on Projects with People](https://solution8-com.github.io/project-toolkit/docs/how-to-retro.html)** - I’ve used this set of methods that outline possible Discovery, Creativity and Decision-making activities. Each method provides the what, why, and when to use as well as a detailed explanation of the process for running it.
 
-**[S8 Method Cards (PDF)](/assets/pdfs/S8-Method-Cards.pdf)** - A printable reference of the method cards used in projects and workshops.
+**[S8 Method Cards (PDF)]({{ '/assets/pdfs/S8-Method-Cards.pdf' | relative_url }})** - A printable reference of the method cards used in projects and workshops.
 
 {: .mb-7}
 
