@@ -13,7 +13,7 @@ permalink: /
 
 This handbook is a guide to who we are, what we believe, and how we work. It is a central piece of onboarding for new solutioneers at Solution8, and a resource for the entire team to document best practices as we continue to grow. Eventually, this handbook will be a robust library of tools, processes, and approaches to solutioneering work that anyone at Solution8 (and eventually, even friends outside Solution8) can pull from to address the problems we most commonly face.
 
-While any Solution8 team member is free to edit these documents, there is some expectation that these are to be ultimately owned and curated by the members of the solutioneering practice. To that end, proposed changes should be submitted via a pull request and leads will be identified to act as curators for particular knowledge areas.
+test - While any Solution8 team member is free to edit these documents, there is some expectation that these are to be ultimately owned and curated by the members of the solutioneering practice. To that end, proposed changes should be submitted via a pull request and leads will be identified to act as curators for particular knowledge areas.
 
 
 ## Table of contents
