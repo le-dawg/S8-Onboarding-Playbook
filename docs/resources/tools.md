@@ -13,15 +13,11 @@ We have experience using a variety of tools across different projects with both 
 ## Brainstorming and workshopping
 
 **[Miro](https://miro.com/)** - Miro is used widely across Solution8 as a digital whiteboard and sandbox for all sorts of different activities. We use it for our interview process, workshops, brainstorming, research synthesis, diagramming, retros, and a lot more. Solution8 has a team account which everyone is welcome and encouraged to use. A few projects have their own Miro spaces separate from Solution8’s account. You’ll receive invites to those accounts separately if your project requires them.
-
-**[Optimal workshop](https://www.optimalworkshop.com/)** - the design team has an account for Optimal Workshop that we use for activities like card sorting, surveys, and IA testing.
 {: .mb-7}
 
 ## Wireframing, visual design, and prototyping
 
-**[Figma](https://www.figma.com/)** - Figma is one of our go-to design tools because of build in collaboration and prototyping capabilities. It’s also operating system agnostic so it is a tool more widely available to use with our clients.
-
-**[Sketch](https://www.sketch.com/)** - We also use Sketch across multiple projects. Its deep catalog of plugins and extensions make it a very customizable design tool.
+**[Figma](https://www.figma.com/)** - Figma is the go-to design tool for collaboration and prototyping. With AI it becomes the starting point for a software factory.
 
 ## Documentation and version control
 
