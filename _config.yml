@@ -1,7 +1,8 @@
 title: Solution8 Solutioneer Handbook
 description: Applying the things we collectively know to the problems we face.
-baseurl: "/" # the subpath of your site, e.g. /blog
-repository: le-dawg/S8-Onboarding-Playbook
+url: "https://solution8-com.github.io"
+baseurl: "/S8-Onboarding-Playbook" # the subpath for project pages
+repository: solution8-com/S8-Onboarding-Playbook
 
 permalink: pretty
 exclude:
