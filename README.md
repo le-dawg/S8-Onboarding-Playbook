@@ -90,7 +90,7 @@ at [http://localhost:4000/](http://localhost:4000/).
 If you have Docker installed you can run the following without managing Ruby on your system:
 
 ```sh
-docker run -it --rm=true -v $PWD:$PWD -w $PWD -p 4000:4000 ruby:2.7.2 /bin/bash -c "gem install bundler:2.2.16 && bundle install && bundle exec jekyll serve --host 0.0.0.0"
+docker run -it --rm=true -v $PWD:$PWD -w $PWD -p 4000:4000 ruby:3.2 /bin/bash -c "gem install bundler && bundle install && bundle exec jekyll serve --host 0.0.0.0"
 ```
 
 ### Local Ruby
@@ -105,10 +105,8 @@ gem update --system
 gem update bundler
 ```
 
-You might also need to install Ruby 2.7.2 if you don't already have it. If you
-used Moncef's script, you already have it. If you didn't use Moncef's script,
-and you don't know how to install specific versions of Ruby, reach out to
-Moncef and he will sort you out in no time.
+You might also need to install Ruby 3.2.x if you don't already have it, because
+this repository requires Ruby `~> 3.2.0`.
 
 Once Ruby is in order, you can install the dependencies and start the Jekyll
 server:
