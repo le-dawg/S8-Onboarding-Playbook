@@ -30,7 +30,7 @@ Books, articles, and other educational resources I've read, not sorted by role o
 * [Wikipedia article on psychological safety](https://en.wikipedia.org/wiki/Psychological_safety)
   * Topic: Psychological safety
 * [Coglode Research](https://www.coglode.com/research)
-  * Topic: Research
+  * Topic: Research, Psychodynamics
 * [Stop Adopting Other People’s Anxiety](https://deardesignstudent.com/don-t-adopt-anxiety-6662515d2416)
   * Topic: Consulting
 * [What Makes Writing More Readable?](https://pudding.cool/2022/02/plain/)
