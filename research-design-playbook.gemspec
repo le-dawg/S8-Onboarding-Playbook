@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "research-design-playbook"
   spec.version       = "0.1"
   spec.authors       = ["Solution8 Design Team"]
-  spec.email         = ["design@solution8.com"]
+  spec.email         = ["dawid@ai-r.dk"]
 
   spec.summary       = %q{A record of how we work together and the resources we use.}
   spec.homepage      = "https://github.com/le-dawg/S8-Onboarding-Playbook"
