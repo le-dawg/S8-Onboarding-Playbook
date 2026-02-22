@@ -13,7 +13,7 @@ permalink: /
 
 This handbook is a guide to who we are, what we believe, and how we work. It is a central piece of onboarding for new solutioneers at Solution8, and a resource for the entire team to document best practices as we continue to grow. Eventually, this handbook will be a robust library of tools, processes, and approaches to solutioneering work that anyone at Solution8 (and eventually, even friends outside Solution8) can pull from to address the problems we most commonly face.
 
-While any Solution8 team member is free to edit these documents, there is an underlying expectation that these are to be ultimately owned and curated by a [designated circle](https://le-dawg.github.io/S8-Onboarding-Playbook/docs/how-we-work/#bringing-a-fresh-systems-thinking-perspective-to-solution8). To that end, proposed changes should be submitted via a pull request and leads will be identified to act as curators for particular knowledge areas. This might be new for some, but it is better than stepping on the slippery slope of non-consensual decision making on documents that impact everyone. 
+While any Solution8 team member is free to edit these documents, there is an underlying expectation that these are to be ultimately owned and curated by a [designated circle](docs/how-we-work/#bringing-a-fresh-systems-thinking-perspective-to-solution8). To that end, proposed changes should be submitted via a pull request and leads will be identified to act as curators for particular knowledge areas. This might be new for some, but it is better than stepping on the slippery slope of non-consensual decision making on documents that impact everyone. 
 
 ## Table of contents
 **[Team charter](docs/team-charter)** - Our purpose, principles, and team superpowers
@@ -27,8 +27,3 @@ While any Solution8 team member is free to edit these documents, there is an und
 - **[Design Tools](docs/resources/tools)** - The tools we use and how we use them.
 
 - **[Templates](docs/resources/templates)** - Templates and methods we’ve created or used successfully in past projects
-
-[//]: - **[Design terminology](docs/resources/common-language)** - Definitions for commonly used design terms
-
-[//]: - **[Accessibility & inclusion](docs/resources/a11y-inclusion)** - Tools and guides to ensure our designs are accessible and inclusive
-
