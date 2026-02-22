@@ -51,6 +51,24 @@ Dawid, Kasper and Martin helped design a [streamlined diagram](https://miro.com/
 
 {: .mb-7}
 
+## Work management principles & practices
+
+How we think about and organise work matters just as much as the work itself. The following principles guide how Solution8 sets direction, runs cycles, and ships things that matter — without generating unnecessary process overhead.
+
+**Principles (summary):**
+- **Build for the creators** — the people doing the work are the first users of any process or tool
+- **Purpose-built** — everything should have a clear reason for existing
+- **Create momentum, don't sprint** — steady progress beats short bursts of intensity
+- **Meaningful direction** — every piece of work connects to a goal that matters
+- **Aim for clarity** — ambiguity is the enemy of good work
+- **Say no to busy work** — not all activity is productive; eliminate what doesn't move things forward
+- **Simple first, then powerful** — start simple; add complexity only when necessary
+- **Decide and move on** — make decisions with available information, document them, and keep moving
+
+[See the full Work management principles & practices page](../work-management) for the complete set of principles and how we apply them in practice (projects, cycles, backlogs, specs, changelogs, and more).
+
+{: .mb-7}
+
 ## Working with teammates and clients on projects
 
 There is no “typical” project here at Solution8 (yet), so there is no “typical” solutioneer handbook to run one, but there are some practices I hold near and dear, which are partially formalized below:
